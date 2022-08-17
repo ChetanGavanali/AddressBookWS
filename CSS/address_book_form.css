@@ -94,7 +94,6 @@
   }
   
   label {
-    /* padding: 12px 12px 12px 0; */
     display: inline-block;
     margin-top: 20px;
   }
@@ -156,4 +155,11 @@
   
   .zipcode {
     padding: 15px 12px;
+  }
+  
+  error-output {
+    margin-left: 10px;
+    font-size: 14px;
+    font-style: italic;
+    color: red;
   }
