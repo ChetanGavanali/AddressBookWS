@@ -41,6 +41,7 @@
     color: #42515f;
   }
   
+  
   .form-content {
     min-height: calc(100% - 80px);
     background-color: #f7f7f7;
@@ -94,7 +95,6 @@
   }
   
   label {
-    /* padding: 12px 12px 12px 0; */
     display: inline-block;
     margin-top: 20px;
   }
